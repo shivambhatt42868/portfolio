@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shivambhatt42868.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/shivambhatt42868.github.io/static/js/main.a06e77ca.chunk.js",
+    "main.js.map": "/shivambhatt42868.github.io/static/js/main.a06e77ca.chunk.js.map",
+    "runtime-main.js": "/shivambhatt42868.github.io/static/js/runtime-main.d0485c8d.js",
+    "runtime-main.js.map": "/shivambhatt42868.github.io/static/js/runtime-main.d0485c8d.js.map",
+    "static/js/2.d22755f3.chunk.js": "/shivambhatt42868.github.io/static/js/2.d22755f3.chunk.js",
+    "static/js/2.d22755f3.chunk.js.map": "/shivambhatt42868.github.io/static/js/2.d22755f3.chunk.js.map",
+    "index.html": "/shivambhatt42868.github.io/index.html",
+    "precache-manifest.5021793a8c415c3643e477bbd939df76.js": "/shivambhatt42868.github.io/precache-manifest.5021793a8c415c3643e477bbd939df76.js",
+    "service-worker.js": "/shivambhatt42868.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/shivambhatt42868.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d22755f3.chunk.js.LICENSE.txt": "/shivambhatt42868.github.io/static/js/2.d22755f3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shivambhatt42868.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0485c8d.js",
+    "static/js/2.d22755f3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a06e77ca.chunk.js"
+  ]
+}
