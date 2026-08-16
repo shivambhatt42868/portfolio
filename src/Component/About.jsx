@@ -12,8 +12,8 @@ function About(){
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p style={{fontSize:"15px"}}>I am a Electronics and Communication grad student from Kumaon Engineering College with ECE as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p style={{fontSize:"10px"}}>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often. You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p style={{fontSize:"15px"}}>I'm Shivam Bhatt, a Technical Architect in Bengaluru with 11+ years designing enterprise web apps, multi-tenant SaaS, and service-based systems. Hands-on across C#, ASP.NET Core, EF Core, SQL Server, React, and Angular, with a focus on solution architecture, HLD/LLD, microservices, caching, and Azure.</p>
+                    <p style={{fontSize:"15px"}}>Currently architecting RackNap at Intimetec Visionsoft — a common-codebase product that ships as both license-driven on-prem and multi-tenant SaaS, covering CSP licensing, subscriptions, and automated provisioning for customers including Telecom Malaysia and ZNet. Earlier work includes financial batch processing at NAV Backoffice, backend on JLL Canopy, HARMAN quote systems, and HP printing/configuration products.</p>
                     </div>
                 </div>
                 </div>
@@ -36,69 +36,33 @@ function About(){
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p><strong>Fontend wise</strong>, I have some experience building websites JavaScript,React,HTML,CSS <i>(though i personally dont like html and css, maybe because I am not good with designing visuals)</i></p>
-                    <p><strong>Backend wise</strong>, I have some experience building stable backend frameworks, performance optimizations</p>
+                    <h3>Solution Architecture</h3>
+                    <p>HLD/LLD, microservices, and plug-and-play extraction from a primary Web API. Dual-deploy common codebase: license-driven on-prem and multi-tenant SaaS.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the ECE background, I have some grasp over fundamental concepts of DSA which I learned while implementing in some of my projects</p>
+                    <h3>Full-Stack .NET &amp; Web</h3>
+                    <p>Hands-on across C#, ASP.NET Core, EF Core, SQL Server, React, and Angular for enterprise web products.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Databse</h3>
-                    <p>I have some expertise over efficient database designs <i>(i personally like database designs, maybe because designing stable structures or we can say the backbone of any web application as always appeared the most vital part to me)</i></p>
-                </div>
-                </div>
-            </div>
-            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
                     <i className="icon-layers2" />
                 </span>
                 <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>*/
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>Cloud &amp; Distributed Systems</h3>
+                    <p>Azure (Functions, App Services, Service Bus, Blob, Key Vault), Redis, Docker, AKS, background services, and SignalR.</p>
                 </div>
                 </div>
             </div>
-            }
             </div>
         </div>
         </section>

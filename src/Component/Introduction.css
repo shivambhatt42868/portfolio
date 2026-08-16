@@ -1,0 +1,49 @@
+#colorlib-hero .flexslider .slides li {
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#colorlib-hero .flexslider .slides li .overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 1;
+}
+
+#colorlib-hero .flexslider .slider-text {
+  z-index: 2;
+}
+
+#colorlib-hero .flexslider .slider-text > .slider-text-inner h1,
+#colorlib-hero .flexslider .slider-text > .slider-text-inner p {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.75);
+}
+
+#colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+#colorlib-hero .flexslider .slider-text > .slider-text-inner p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+  max-width: 540px;
+}
+
+#colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
+  color: #ffffff !important;
+  border: 2px solid #ffffff !important;
+  background: transparent !important;
+  font-weight: 700 !important;
+}
+
+#colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
+  color: #ffffff !important;
+  border: 2px solid #ffffff !important;
+  background: rgba(255, 255, 255, 0.12) !important;
+}
