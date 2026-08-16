@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d1b05096.chunk.css",
-    "main.js": "/portfolio/static/js/main.26c7012f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.26c7012f.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.f18b6ef5.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f18b6ef5.js.map",
-    "static/js/2.d22755f3.chunk.js": "/portfolio/static/js/2.d22755f3.chunk.js",
-    "static/js/2.d22755f3.chunk.js.map": "/portfolio/static/js/2.d22755f3.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.d7873473c10494955f6e7500b96d80fa.js": "/portfolio/precache-manifest.d7873473c10494955f6e7500b96d80fa.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/portfolio/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.d22755f3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d22755f3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
+    "main.css": "/shivambhatt42868.github.io/static/css/main.baff8b17.chunk.css",
+    "main.js": "/shivambhatt42868.github.io/static/js/main.740a2932.chunk.js",
+    "main.js.map": "/shivambhatt42868.github.io/static/js/main.740a2932.chunk.js.map",
+    "runtime-main.js": "/shivambhatt42868.github.io/static/js/runtime-main.d0485c8d.js",
+    "runtime-main.js.map": "/shivambhatt42868.github.io/static/js/runtime-main.d0485c8d.js.map",
+    "static/js/2.6073d847.chunk.js": "/shivambhatt42868.github.io/static/js/2.6073d847.chunk.js",
+    "static/js/2.6073d847.chunk.js.map": "/shivambhatt42868.github.io/static/js/2.6073d847.chunk.js.map",
+    "index.html": "/shivambhatt42868.github.io/index.html",
+    "precache-manifest.85ec324a670958d4488f98fd43fb921b.js": "/shivambhatt42868.github.io/precache-manifest.85ec324a670958d4488f98fd43fb921b.js",
+    "service-worker.js": "/shivambhatt42868.github.io/service-worker.js",
+    "static/css/main.baff8b17.chunk.css.map": "/shivambhatt42868.github.io/static/css/main.baff8b17.chunk.css.map",
+    "static/js/2.6073d847.chunk.js.LICENSE.txt": "/shivambhatt42868.github.io/static/js/2.6073d847.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f18b6ef5.js",
-    "static/js/2.d22755f3.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.26c7012f.chunk.js"
+    "static/js/runtime-main.d0485c8d.js",
+    "static/js/2.6073d847.chunk.js",
+    "static/css/main.baff8b17.chunk.css",
+    "static/js/main.740a2932.chunk.js"
   ]
 }
